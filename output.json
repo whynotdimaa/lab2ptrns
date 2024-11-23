@@ -1,0 +1,31 @@
+{
+    "ports": [
+        {
+            "id": 1,
+            "latitude": 50.0,
+            "longitude": 75.0,
+            "containers": [],
+            "ships": []
+        },
+        {
+            "id": 2,
+            "latitude": 60.0,
+            "longitude": 85.0,
+            "containers": [],
+            "ships": []
+        },
+        {
+            "id": 3,
+            "latitude": 80.0,
+            "longitude": 95.0,
+            "containers": [],
+            "ships": [
+                {
+                    "id": 1,
+                    "fuel_left": 476.99,
+                    "total_capacity": 8000
+                }
+            ]
+        }
+    ]
+}
